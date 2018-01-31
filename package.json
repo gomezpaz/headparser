@@ -1,5 +1,5 @@
 {
-  "name": "fcodec-headparser",
+  "name": "fcodec-headerparser",
   "version": "0.0.1",
   "description": "Basic node.js headerparser API",
   "main": "server.js",
